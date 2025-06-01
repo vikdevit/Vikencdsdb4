@@ -1,6 +1,9 @@
 # Vikencdsdb4
 Analyse de données non structurées par l'IA (Deep learning) + IA générative avec conditional GAN
 
+Ci-desosus lien vidéo de présentation du projet  
+https://1drv.ms/v/c/1e2a60e1c2caff68/Ed9vxwrsTsdIpuQfYBtJKcsB-iIae5cBvN8k6ovFjdUdVA?e=xTfw7p  
+
 partie 1 : prédiction d'âge à partir de photos de visages (régression et classification) 
 9Mars2025_VikenBloc4CDSDM2i_utkcomplet_vikenkhatch
 
