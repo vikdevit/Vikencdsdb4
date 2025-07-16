@@ -1,4 +1,4 @@
-# Vikencdsdb4
+# Deep learning avec prediction, classification et Generative Adversarial Network (GAN)
 Analyse de données non structurées par l'IA (Deep learning) + IA générative avec conditional GAN
 
 Ci-dessous lien vidéo de présentation du projet  
